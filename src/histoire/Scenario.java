@@ -42,7 +42,7 @@ public class Scenario {
 //		System.out.println(village.partirVendeur(bonemine));
 //		System.out.println(village.afficherMarche());
 		
-		System.out.println("Hello");
+		
 	}
 
 }
